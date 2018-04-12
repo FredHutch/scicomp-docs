@@ -1,1 +1,23 @@
+# build
+markdown: kramdown
 theme: jekyll-theme-dinky
+
+title: SciComp Docs
+
+collections:
+  access:
+    output: true
+    permalink: /access/:path/
+  hpc:
+    output: true
+    permalink: /HPC/:path/
+  linux:
+    output: true
+    permalink: /linux/:path/
+  software:
+    output: true
+    permalink: /software/:path/
+  help:
+    output: true
+    permalink: /help/:path/
+
