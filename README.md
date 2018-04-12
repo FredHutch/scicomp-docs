@@ -1,7 +1,21 @@
 # SciComp Docs
 
+## Posts
+
+{% for p in site.posts %}
+ * [{{ p.url}}]({{ p.title }})
+{% endfor %}
+
+## Pages
+
+{% for p in site.pages %}
+ * [{{ p.url}}]({{ p.title }})
+{% endfor %}
+
+## Topics
+{%
 {{ access.title }}
-{{ access.description | truncate: 160 }}
+{{ access.description | truncate: 160 }}%}
 
 {{ help.title }}
 {{ help.description | truncate: 160 }}
