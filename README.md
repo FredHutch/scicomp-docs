@@ -1,7 +1,4 @@
----
-title: main page
-description: landing page
----
+# SciComp Docs
 
 {{ access.title }}
 {{ access.description | truncate: 160 }}

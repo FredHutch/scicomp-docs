@@ -6,7 +6,7 @@ title: access information
 {% for access in site.access %}
 
 
-<a href="{{ linux.url | prepend: site.baseurl }}">
+<a href="{{ access.url | prepend: site.baseurl }}">
         {{ access.title }}
 </a>
 
