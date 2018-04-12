@@ -1,6 +1,6 @@
 # build
 markdown: kramdown
-theme: jekyll-theme-dinky
+theme: minima
 
 title: SciComp Docs
 
