@@ -21,3 +21,8 @@ collections:
     output: true
     permalink: /help/:path/
 
+# Tipue search settings
+tipue_search:
+  include:
+    pages: true
+collections: [access, hpc, linux, software,help]
