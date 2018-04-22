@@ -5,7 +5,9 @@ description: how to use sbatch to submit jobs on gizmo
 ---
 # Info on using Gizmo, our HPC cluster
 
-{% include collection_doc_lister.html collection='github-pages' %}
+Table of Contents:
+
+{% include toc.html html=content %}
 
 # sbatch?
 
