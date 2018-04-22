@@ -7,3 +7,9 @@ description: software at Fred Hutch: environment modules, requesting package, R,
 # software?
 
 How to get the codez you need.
+
+{% include collection_doc_lister.html collection='github-pages' %}
+
+---
+bmcgough 04.23.18
+---
