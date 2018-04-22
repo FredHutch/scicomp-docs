@@ -1,4 +1,6 @@
 ---
+title: linux
+description: collection of linux related pages
 ---
 
 # Welcome to the Linux collection
