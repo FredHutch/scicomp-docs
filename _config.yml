@@ -3,6 +3,7 @@ markdown: kramdown
 remote-theme: Documentation
 
 title: SciComp Docs
+baseurl: /scicomp-docs
 
 collections:
   access:
