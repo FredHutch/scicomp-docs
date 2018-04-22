@@ -1,6 +1,6 @@
 # build
 markdown: kramdown
-theme: minima
+remote-theme: chalk
 
 title: SciComp Docs
 
