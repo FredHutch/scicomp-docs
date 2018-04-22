@@ -1,4 +1,6 @@
 ---
+title: index
+description: SciComp Docs
 ---
 
 {% include toc.html html=content %}
