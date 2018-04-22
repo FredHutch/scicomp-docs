@@ -25,23 +25,23 @@ Welcome to our fledgling documentation site, now hosted by github!
 
 * Linux
 
-{% include collection_doc_lister.html collection='github-pages' %}
+{% include collection_doc_lister.html collection='linux' %}
 
 * Access
 
-{% include collection_doc_lister.html collection='github-pages' %}
+{% include collection_doc_lister.html collection='access' %}
 
 * HPC
 
-{% include collection_doc_lister.html collection='github-pages' %}
+{% include collection_doc_lister.html collection='hpc' %}
 
 * Help
 
-{% include collection_doc_lister.html collection='github-pages' %}
+{% include collection_doc_lister.html collection='help' %}
 
 * Software
 
-{% include collection_doc_lister.html collection='github-pages' %}
+{% include collection_doc_lister.html collection='software' %}
 
 ---
 bmcgough 04.23.18
