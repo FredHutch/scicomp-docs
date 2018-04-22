@@ -11,13 +11,13 @@ Welcome to our fledgling documentation site, now hosted by github!
 ## Posts
 
 {% for p in site.posts %}
- * [{{ p.url}}]({{ p.title }})
+ * [{{ p.title }}]({{ p.url }})
 {% endfor %}
 
 ## Pages
 
 {% for p in site.pages %}
- * [{{ p.url}}]({{ p.title }})
+ * [{{ p.title }}]({{ p.url }})
 {% endfor %}
 
 ## Topics
