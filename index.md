@@ -12,6 +12,7 @@ Welcome to our fledgling documentation site, now hosted by github!
 
 {% for p in site.posts %}
  * [{{ p.title }}]({{ p.url }})
+  * {{ p.description }} _{{ p.author }}_ last update {{ p.date }}
 {% endfor %}
 
 ## Pages
