@@ -1,6 +1,8 @@
 ---
 title: About Us
 description: The SciComp team supports Scientific Computing in many forms at Fred Hutch
+author: bmcgough
+date: 2018-04-22
 ---
 
 # SciComp
