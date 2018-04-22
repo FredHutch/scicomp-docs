@@ -6,24 +6,21 @@ title: SciComp Docs
 baseurl: /scicomp-docs
 
 collections:
+  about:
+    output: true
   access:
     output: true
-    #permalink: /access/:path/
   hpc:
     output: true
-    #permalink: /HPC/:path/
   linux:
     output: true
-    #permalink: /linux/:path/
   software:
     output: true
-    #permalink: /software/:path/
   help:
     output: true
-    #permalink: /help/:path/
 
 # Tipue search settings
 tipue_search:
-  include:
+  include:  
     pages: true
-collections: [access, hpc, linux, software, help]
+    collections: [about, access, hpc, linux, software, help]
