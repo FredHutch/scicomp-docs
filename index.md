@@ -22,4 +22,26 @@ Welcome to our fledgling documentation site, now hosted by github!
 
 ## Topics
 
-Collections will go here! Someday!
+* Linux
+
+{% include collection_doc_lister.html collection='github-pages' %}
+
+* Access
+
+{% include collection_doc_lister.html collection='github-pages' %}
+
+* HPC
+
+{% include collection_doc_lister.html collection='github-pages' %}
+
+* Help
+
+{% include collection_doc_lister.html collection='github-pages' %}
+
+* Software
+
+{% include collection_doc_lister.html collection='github-pages' %}
+
+---
+bmcgough 04.23.18
+---
