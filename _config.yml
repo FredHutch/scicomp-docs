@@ -1,6 +1,6 @@
 # build
 markdown: kramdown
-remote-theme: chalk
+remote-theme: Documentation
 
 title: SciComp Docs
 
