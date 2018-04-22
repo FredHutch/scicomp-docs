@@ -1,13 +1,11 @@
 ---
-title: sbatch placeholder
-layout: page
-description: how to use sbatch to submit jobs on gizmo
+title: slurm overview
+description: A description of slurm, our cluster scheduler
+author: bmcgough
+date: 2018-04-22
 ---
+
 # Info on using Gizmo, our HPC cluster
-
-Table of Contents:
-
-{% include toc.html html=content %}
 
 # sbatch?
 
@@ -35,6 +33,3 @@ You would think that to run `ben.sh` four times with one core each, you would us
 
 You can use `squeue -u <username>` to check on your running/pending jobs, and `sacct' to check on no longer running jobs.
 
----
-bmcgough 04.23.18
----
