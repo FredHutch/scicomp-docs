@@ -8,22 +8,22 @@ baseurl: /scicomp-docs
 collections:
   access:
     output: true
-    permalink: /access/:path/
+    #permalink: /access/:path/
   hpc:
     output: true
-    permalink: /HPC/:path/
+    #permalink: /HPC/:path/
   linux:
     output: true
-    permalink: /linux/:path/
+    #permalink: /linux/:path/
   software:
     output: true
-    permalink: /software/:path/
+    #permalink: /software/:path/
   help:
     output: true
-    permalink: /help/:path/
+    #permalink: /help/:path/
 
 # Tipue search settings
 tipue_search:
   include:
     pages: true
-collections: [access, hpc, linux, software,help]
+collections: [access, hpc, linux, software, help]
