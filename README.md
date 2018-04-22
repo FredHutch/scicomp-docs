@@ -1,5 +1,10 @@
+---
+---
+
 {% include toc.html html=content %}
+
 # SciComp Docs
+Welcome to our fledgling documentation site, now hosted by github!
 
 ## Posts
 
