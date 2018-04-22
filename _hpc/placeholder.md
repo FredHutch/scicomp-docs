@@ -3,6 +3,9 @@ title: sbatch placeholder
 layout: page
 description: how to use sbatch to submit jobs on gizmo
 ---
+# Info on using Gizmo, our HPC cluster
+
+{% include collection_doc_lister.html collection='github-pages' %}
 
 # sbatch?
 
@@ -29,3 +32,7 @@ You would think that to run `ben.sh` four times with one core each, you would us
 ## Troubleshooting
 
 You can use `squeue -u <username>` to check on your running/pending jobs, and `sacct' to check on no longer running jobs.
+
+---
+bmcgough 04.23.18
+---
