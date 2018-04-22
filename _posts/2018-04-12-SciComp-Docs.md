@@ -1,7 +1,8 @@
 ---
 layout: post
 title: First Post
-date: 2018-04-22 14:20
+description: A first test post
+date: 2018-04-22
 author: bmcgough
 ---
 
